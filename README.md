@@ -1,4 +1,4 @@
-![logo](https://github.com/Akhil-Anupoju/Akhil-Anupoju/blob/master/github%20banner.png)
+![logo](https://github.com/Akhil-Anupoju/Akhil-Anupoju/blob/master/GitHub_Banner.png)
 <h1 align="center">Hi 👋, I'm Akhil Anupoju</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 

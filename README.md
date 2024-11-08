@@ -38,7 +38,7 @@
   <a href="https://linkedin.com/in/akhil-anupoju" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-anupoju" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/akhil_anupoju" target="blank">
+  <a href="https://instagram.com/akhil_anupoju_06" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akhil anupoju" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/anupojuakhil" target="blank">
